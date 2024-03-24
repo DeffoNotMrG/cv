@@ -32,7 +32,7 @@ export const RESUME_DATA = {
   personalWebsiteUrl: "https://annenijland.com/",
   contact: {
     email: "anne.nijland@outlook.com",
-    tel: "+31 6 81688301",
+    tel: "Ask me on LinkedIn",
     social: [
       {
         name: "GitHub",
