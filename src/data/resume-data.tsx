@@ -85,7 +85,7 @@ export const RESUME_DATA = {
       {
       company: "Botanic Sanctuary Antwerp",
       link: "/",
-      badges: ["Hybrid"],
+      badges: ["Onsite"],
       title: "MICE Executive",
       start: "July 2022",
       end: "March 2023",
@@ -95,7 +95,7 @@ export const RESUME_DATA = {
       {
       company: "Botanic Sanctuary Antwerp",
       link: "/",
-      badges: ["Hybrid"],
+      badges: ["Onsite"],
       title: "Sales & Events Trainee",
       start: "Sept 2021",
       end: "June 2022",
