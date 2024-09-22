@@ -1,8 +1,8 @@
 import {
-  AmbitLog,
   BarepapersLogo,
   BimLogo,
   CDGOLogo,
+  ClevertechLogo,
   ConsultlyLogo,
   EvercastLogo,
   Howdy,
