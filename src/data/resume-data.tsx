@@ -1,9 +1,8 @@
 import {
-  AmbitLogo,
+  AmbitLog,
   BarepapersLogo,
   BimLogo,
   CDGOLogo,
-  ClevertechLogo,
   ConsultlyLogo,
   EvercastLogo,
   Howdy,
@@ -28,7 +27,7 @@ export const RESUME_DATA = {
     "Hospitality Enthusiast",
   summary:
     "Dedicated and enthusiastic professional with a passion for hospitality and a genuine love for working with people. With a flexible mindset and a commitment to excellence, I thrive in dynamic environments. I am eager to contribute my skills and positive energy to a team committed to delivering exceptional service to all guests.",
-  avatarUrl: "https://media.licdn.com/dms/image/D5603AQFJ4GkgwujKQA/profile-displayphoto-shrink_800_800/0/1710343950800?e=1715817600&v=beta&t=C8vsrbZMhSlRAH2V2e1vA4bKhuVNZdhTiRKc55ULn_0",
+  avatarUrl: "https://utfs.io/f/9CxbptFNIQ1qaFfCv8WBZrpRhK6xdyQqYcSnkw4V1e5WXa3t",
   personalWebsiteUrl: "https://annenijland.com/",
   contact: {
     email: "anne.nijland@outlook.com",
@@ -80,7 +79,7 @@ export const RESUME_DATA = {
       start: "April 2023",
       end: "Present",
       description:
-      "Managing day to day operations, responsible for 4 different F&B outlets, and in charge of hiring new staff.",
+      "Managing day to day operations and responsible for 4 different F&B outlets: à la carte restaurant, live cooking restaurant, coffee bar & skybar. In charge of hiring and training new staff, conducting performance reviews, managing stock and ordering supplies, making staff schedules and handling guest complaints.",
       },
       {
       company: "Botanic Sanctuary Antwerp",
